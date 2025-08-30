@@ -1,3 +1,3 @@
-# hito1-pizza
+# hito2-pizza
 >[!Important]
-https://hito1-pizza.vercel.app/
+https://hito2-pizza.vercel.app/
